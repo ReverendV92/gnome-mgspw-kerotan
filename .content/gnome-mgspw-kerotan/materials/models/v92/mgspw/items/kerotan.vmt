@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+	$basetexture models/v92/mgspw/items/kerotan
+	$halflambert 1
+}
